@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 user308 user308 4096 Jun 26 05:38 .
+drwxr-xr-x 4 root    root    4096 Apr  8 06:49 ..
+-rw------- 1 user308 user308   18 Jun 26 05:38 .bash_history
+-rw-r--r-- 1 user308 user308    0 Jun 26 05:38 user308.txt
